@@ -15,9 +15,13 @@
 ### VSCode CLI
 
 `--diff <file1> <file2>` - Open a file difference editor. Requires two file paths as arguments.
+
 `--merge <path1> <path2> <base> <result>` - Perform a three-way merge by providing paths for two modified versions of a file, the common origin of both modified versions, and the output file to save merge results.
+
 `--wait` - Wait for the files to be closed before returning.
+
 `--new-window` - Opens a new session of VS Code instead of restoring the previous session (default).
+
 `--sync <on | off>` - Turn sync on or off.
 
 ### Perforce P4Merge конфигурация для 1С:Предприятия
