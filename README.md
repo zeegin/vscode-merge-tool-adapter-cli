@@ -96,3 +96,6 @@ Three-way merge:
 ![](assets/4.png)
 ![](assets/5.png)
 ![](assets/6.png)
+
+### Близкие по назначению проекты
+[ocvc](https://github.com/alei1180/ocvc) - утилита, упрощающая перенос участков кода из Конфигуратора 1С в Visual Studio Code.
